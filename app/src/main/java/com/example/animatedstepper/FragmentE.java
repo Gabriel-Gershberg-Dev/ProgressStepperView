@@ -8,6 +8,8 @@ import android.view.ViewGroup;
 import androidx.navigation.Navigation;
 import androidx.core.content.ContextCompat;
 
+import com.example.stepperlib.Stepper;
+
 
 public class FragmentE extends Fragment {
 

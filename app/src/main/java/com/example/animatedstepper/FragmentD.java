@@ -7,6 +7,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import androidx.navigation.Navigation;
 
+import com.example.stepperlib.Stepper;
+
 public class FragmentD extends Fragment {
 
     @Override

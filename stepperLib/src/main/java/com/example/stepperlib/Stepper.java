@@ -1,4 +1,4 @@
-package com.example.animatedstepper;
+package com.example.stepperlib;
 
 import android.animation.Animator;
 import android.animation.ValueAnimator;
