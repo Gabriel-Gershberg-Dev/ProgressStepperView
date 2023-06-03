@@ -16,7 +16,7 @@ Add the dependency:
 
 ```groovy 
 dependencies {
-	        implementation 'com.github.Gabriel-Gershberg-Dev:ProgressStepperView:Tag'
+	        implementation 'com.github.Gabriel-Gershberg-Dev:ProgressStepperView:1.0.0'
 	}
 ``` 
 
